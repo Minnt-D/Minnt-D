@@ -1,10 +1,7 @@
-# About Me
-Desarrollador de videojuegos independiente con experiencia en creación de herramientas lógicas. Actualmente enfocado en un solucionador SAT para fórmulas proposicionales con generación de tablas de verdad y funcionalidades relacionadas. Experiencia en desarrollo fullstack con énfasis en aplicaciones interactivas.
+# Sobre mi
+Estudiante de Ingeniería de Software con experiencia práctica en desarrollo de aplicaciones y herramientas lógicas. Actualmente desarrollando un solucionador SAT para fórmulas proposicionales con generación de tablas de verdad. Experiencia en diversos lenguajes y tecnologías tanto para desarrollo web como para creación de videojuegos.
 
-Habilidades técnicas:  
-Java, Python, JavaScript, HTML5, CSS3, React, SQL, Godot Engine, GDScript, PHP, Laravel
-
-# Tech Stack
+# Habilidades
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -25,22 +22,3 @@ Java, Python, JavaScript, HTML5, CSS3, React, SQL, Godot Engine, GDScript, PHP, 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minnttamashi1@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/alejo_gales)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@minnt_d)
-
-# GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minnt-D&show_icons=true&theme=gotham&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minnt-D&layout=compact&theme=gotham&hide_border=true" />
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Minnt-D&theme=gotham&hide_border=true" />
-</div>
-
-# GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Minnt-D&theme=gotham&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-# Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Minnt-D&limit=5&theme=gotham&combine_all_yearly_contributions=true" />
-</div>
-
----
