@@ -1,5 +1,6 @@
 # Sobre mi
-Estudiante de Ingeniería de Software con experiencia práctica en desarrollo de aplicaciones y herramientas lógicas. Actualmente desarrollando un solucionador SAT para fórmulas proposicionales con generación de tablas de verdad. Experiencia en diversos lenguajes y tecnologías tanto para desarrollo web como para creación de videojuegos.
+Estudiante de Ingeniería de Software con experiencia práctica en desarrollo de aplicaciones y herramientas lógicas.
+Experiencia en diversos lenguajes y tecnologías tanto para desarrollo web como para creación de videojuegos.
 
 # Habilidades
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
