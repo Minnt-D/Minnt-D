@@ -18,9 +18,6 @@ Experiencia en diversos lenguajes y tecnologías tanto para desarrollo web como 
 
 
 # Socials
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@minnt_d)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/alejo_gales)
-[![Behance](https://img.shields.io/badge/Portfolio-1769ff?logo=behance&logoColor=white)](https://behance.net/alejandespitia13)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minnttamashi1@gmail.com)
-
-
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@minnt_studio)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/minnt_studio/)
+[![Behance](https://img.shields.io/badge/Portfolio-1769ff?logo=behance&logoColor=white)](https://www.behance.net/minntstudio)
